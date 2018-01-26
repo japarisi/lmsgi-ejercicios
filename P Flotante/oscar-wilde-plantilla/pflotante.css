@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+body{
+    background-color: #33E8FF;
+
+}
+
+
+h1{
+    margin: 0%;
+    color: #005A66;
+    text-align: center;
+    font-size: 425%;
+    text-transform: uppercase;
+    padding: 0%;
+    letter-spacing: 30px;
+    font-family: sans-serif;
+
+}
+
+
+p{
+    border-top: 0%;
+    border: 5px #005A66 dashed;
+    background-color:#00B4CC;
+    font-size: 170%;
+    position: relative;
+    float: left;
+    width: 270px;
+    height: 220px;
+    margin: 5px;
+    padding: 5px;
+}
+
+p::first-letter{
+    float:left;
+    color: #005A66;
+    font-size: 300%;
+}

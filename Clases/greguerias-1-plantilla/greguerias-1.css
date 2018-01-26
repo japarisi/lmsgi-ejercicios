@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+/*By Barto */
+
+html{
+    background-color: hsl(145,50%,35%);
+}
+p.infancia{
+    color: white;
+    font-family: serif;
+}
+
+
+p.animales{
+    color: hsl(35,100%,85%);
+    font-family: sans-serif;
+}
+
+p.literatura{
+    color:hsl(35,100%,55%);
+    font-family: monospace;
+}
+
+p.numeros {
+    color: hsl(345,80%,50%);
+    font-family: cursive;
+}
+

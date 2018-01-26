@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+h1{
+    text-align: left;
+    font-size: 415%;
+    background-color: #33354C;
+    color:white;
+    text-align: justify;
+    font-family: sans-serif;
+    margin:-1%;
+    padding: 5px;
+}
+
+
+h2#Escritorio{
+    background-color: #33354C;
+    color:white;
+    text-align: justify;
+    font-family: sans-serif;
+
+}
+
+h2#Internet{
+    background-color: #33354C;
+    color:white;
+    text-align: justify;
+    font-family: sans-serif;
+
+}
+
+section#Escritorio{
+    text-align: left;
+}
+
+section#Internet{
+    text-align: right;
+}

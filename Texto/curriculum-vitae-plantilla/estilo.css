@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+/* By Barto*/
+
+html {
+    background-color: hsl(200,15%,85%);
+    font-family: sans-serif;
+}
+
+h1{
+    font-size: 250%;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2{
+    background-color: hsl(200,15%,55%);
+    color: hsl(200,15%,30%);
+    font-size:200%;
+    text-decoration: underline;
+}
+
+h3{
+    background-color: hsl(200,15%,75%);
+    color: hsl(200,15%,40%);
+    font-style: oblique;
+    font-size: 150%;
+
+}
+
+p{
+    background-color: hsl (200,15%,75%);
+    text-align:justify;
+}
+
+address{
+    background-color:white;
+    text-align: right;
+    font-weight: bold;
+}
+
+strong{
+    color: hsl(200,100%,30%);
+    font-weight: normal;
+}
+
+em{
+    color: hsl(200,100%,30%);
+    font-style:normal;
+    font-weight: bold;
+}
